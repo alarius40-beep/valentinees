@@ -7,7 +7,7 @@ const CONFIG = {
   slogan: "Diseño de Experiencias y Celebraciones",
   tagline: "Regalos de Autor & Eventos",
   // TODO: reemplazar por el número real, formato internacional sin '+' ni espacios (ej. 521XXXXXXXXXX)
-  whatsappNumber: "000000000000",
+  whatsappNumber: "3042590946",
   email: "hola@valentinee.example", // TODO: correo real
   social: { instagram: "#", facebook: "#", tiktok: "#" }, // TODO: enlaces reales
   location: "Ciudad — dirección por confirmar", // TODO
